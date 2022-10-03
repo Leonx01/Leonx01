@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Leonx01.
-- 👀 I’m interested in Programming & Algorithm & Linux Operating System .
-- 🌱 I’m currently learning Java basis & Linux Operating System & Algorithm.
-- 💞️ I’m looking to collaborate on nothing currently.
+- 👀 Crazy about programming.
+- 💞️ Now, learning Java ,Java Web ,Python Web Crawler and Linux Operating System.
 - 📫 My E-mail address : nileonx@gmail.com
 
 <!---
