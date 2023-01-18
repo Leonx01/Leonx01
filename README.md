@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leonx01.
 - 👀 Crazy about programming.
-- 💞️ Now, learning Java ,Java Web ,Python Web Crawler ，Typescript , Rust and Linux Operating System.
+- 💞️ Now, learning Java ,Java Web ,Python Web Crawler ，Typescript and Linux Operating System.
 - 📫 My E-mail address : nileonx@gmail.com
 
 <!---
