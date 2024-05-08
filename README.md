@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Leonx01.
-- 👀 Crazy about Programming & Algorithm.
-- 💞️ Now, learning Java ,Java Web ,Python Web Crawler ，Typescript and Linux Operating System.
+- 👋 Hi, I’m nileonx.
+- 👀 Tech:SpringBoot、Flask、Vue、Vite、Typescript
 - 📫 My E-mail address : nileonx@gmail.com
 
 <!---
