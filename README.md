@@ -1,42 +1,50 @@
-# 👋 Hi, I'm nileonx
+# 👋 Hi, I'm nileonx (Ni Jianqiao)
 
-## 🎓 About Me
+### 🚀 AI Algorithm Engineer & Backend Specialist
 
-Software Engineering Master's student at **NJU (Nanjing University)** specializing in:
-- 🤖 **Agents & Multi-Agent Systems**
-- 📚 **RAG (Retrieval-Augmented Generation)**
-- 🧠 **Large Language Models (LLM)**
+Currently pursuing a **Master’s in Software Engineering at Nanjing University (NJU)**. I focus on bridging the gap between cutting-edge AI research and high-performance, production-ready applications.
+
+-----
+
+## 🔍 Research & Interests
+
+  * **Generative AI:** Diffusion Large Language Models (dLLM) and Multi-Agent Systems.
+  * **Performance:** Inference acceleration, parallel decoding, and RAG optimization.
+  * **Architecture:** Building scalable LLM workflows using LangGraph and Dify.
 
 ## 🛠️ Tech Stack
 
-- **Backend:** SpringBoot, Flask, FastAPI
-- **Frontend:** Vue 3, Vite, TypeScript
-- **Databases:** MySQL, Redis, Milvus, Elasticsearch
-- **Message Broker:** RabbitMQ
-- **Tools:** Docker, WebSocket, JWT
-- **AI/ML:** LangGraph, LangChain, Dify 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | Python (FastAPI/Flask), Java (SpringBoot), Go |
+| **Frontend** | Vue 3, Vite, TypeScript, Tailwind CSS |
+| **AI / LLM** | LangGraph, LangChain, Dify, Milvus, PyTorch |
+| **Infrastructure** | Docker, Redis, MySQL, RabbitMQ, Elasticsearch |
+
+-----
 
 ## 📚 Featured Projects
 
-### 🔥 ChatMooc
-AI-powered personalized learning platform using LangGraph agents.
-- **Backend:** [chatmooc](https://github.com/Leonx01/chatmooc) - Python 3.12+, FastAPI, LangGraph
-- **Frontend:** [chatmooc-frontend](https://github.com/Leonx01/chatmooc-frontend) - Vue 3, Vite, TypeScript
-- **Key Features:** AI agents, vector search, SSE streaming, JWT auth
+### 🎓 [ChatMOOC](https://github.com/Leonx01/chatmooc) | AI-Powered Learning Platform
 
-### 💬 LeeChat
-Real-time chat application with WebSocket support.
-- **Server:** [leetchat-server](https://github.com/Leonx01/leetchat-server) - SpringBoot, WebSocket, JWT
-- **Client:** [leetchat-client](https://github.com/Leonx01/leetchat-client) - Vue 3, WebSocket
-- **Features:** Private/group chat, real-time status, file uploads
+*An intelligent ecosystem that transforms static course materials into interactive, personalized learning paths.*
 
-## 📫 Contact
+  * **Core:** Built with **Python 3.12** and **LangGraph** for complex agentic workflows.
+  * **Features:** RAG-based resource parsing, vector search (Milvus), and real-time SSE streaming.
+  * **UI:** Modern glassmorphism interface built with Vue 3 and Vite.
 
-- **Email:** nileonx@gmail.com
-- **GitHub:** [@Leonx01](https://github.com/Leonx01)
+### 💬 [LeeChat](https://github.com/Leonx01/leetchat-server) | Real-time Communication Suite
 
----
+*High-concurrency chat application focusing on low-latency data exchange.*
 
-<!---
-Leonx01/Leonx01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+  * **Tech:** SpringBoot, WebRTC, WebSocket, and JWT authentication.
+  * **Functionality:** Supports private/group messaging and real-time user status synchronization.
+
+-----
+
+## 📊 GitHub Stats
+
+## 📫 Connect with Me
+
+  * **Email:** [nileonx@gmail.com](mailto:nileonx@gmail.com)
+  * **GitHub:** [@Leonx01](https://github.com/Leonx01)
