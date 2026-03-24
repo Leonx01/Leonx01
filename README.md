@@ -18,15 +18,17 @@ Software Engineering Master's student at **NJU (Nanjing University)** specializi
 
 ## 📚 Featured Projects
 
-### 🔥 [ChatMooc](https://github.com/Leonx01/chatmooc)
-AI-powered personalized learning platform using LangGraph agents. Features intelligent tutoring, adaptive learning paths, flashcard generation, and multi-LLM support (OpenAI, DeepSeek, Claude, Ollama).
-- **Stack:** Python 3.12+, FastAPI, LangGraph, Milvus, Celery
+### 🔥 ChatMooc
+AI-powered personalized learning platform using LangGraph agents.
+- **Backend:** [chatmooc](https://github.com/Leonx01/chatmooc) - Python 3.12+, FastAPI, LangGraph
+- **Frontend:** [chatmooc-frontend](https://github.com/Leonx01/chatmooc-frontend) - Vue 3, Vite, TypeScript
 - **Key Features:** AI agents, vector search, SSE streaming, JWT auth
 
-### 💬 [LeeChat Server](https://github.com/Leonx01/leetchat-server)
-Real-time chat application backend with WebSocket support, JWT authentication, and scalable architecture.
-- **Stack:** SpringBoot, WebSocket, JWT, MyBatis, Redis
-- **Features:** Private/group chat, real-time status, file upload to Aliyun OSS
+### 💬 LeeChat
+Real-time chat application with WebSocket support.
+- **Server:** [leetchat-server](https://github.com/Leonx01/leetchat-server) - SpringBoot, WebSocket, JWT
+- **Client:** [leetchat-client](https://github.com/Leonx01/leetchat-client) - Vue 3, WebSocket
+- **Features:** Private/group chat, real-time status, file uploads
 
 ## 📫 Contact
 
