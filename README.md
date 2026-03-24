@@ -1,6 +1,6 @@
 # 👋 Hi, I'm nileonx (Ni Jianqiao)
 
-### 🚀 AI Algorithm Engineer & Backend Specialist
+### 🚀 Agent Engineer & AI-Native Developer
 
 Currently pursuing a **Master’s in Software Engineering at Nanjing University (NJU)**. I focus on bridging the gap between cutting-edge AI research and high-performance, production-ready applications.
 
