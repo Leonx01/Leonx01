@@ -11,7 +11,7 @@
 
   * **Generative AI:** Diffusion Large Language Models (dLLM) and Multi-Agent Systems.
   * **Performance:** Inference acceleration, parallel decoding, and RAG optimization.
-  * **Architecture:** Building scalable LLM workflows using LangGraph and Dify.
+  * **Architecture:** Building scalable LLM workflows/Agents using LangGraph and Dify.
 
 ## 🛠️ Tech Stack
 
