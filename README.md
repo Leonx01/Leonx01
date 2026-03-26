@@ -39,6 +39,6 @@
 *High-concurrency chat application focusing on low-latency data exchange.*
 
   * **Tech:** SpringBoot, WebRTC, WebSocket, and JWT authentication.
-  * **Functionality:** Supports private/group messaging and real-time user status synchronization.
+  * **Functionality:** Support face-to-face messaging and real-time user status synchronization.
 
 -----
