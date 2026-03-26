@@ -42,10 +42,3 @@
   * **Functionality:** Supports private/group messaging and real-time user status synchronization.
 
 -----
-
-## 📊 GitHub Stats
-
-## 📫 Connect with Me
-
-  * **Email:** [nileonx@gmail.com](mailto:nileonx@gmail.com)
-  * **GitHub:** [@Leonx01](https://github.com/Leonx01)
