@@ -17,7 +17,7 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | Python (FastAPI/Flask), Java (SpringBoot), Go |
+| **Backend** | Python (FastAPI/Flask), Java (SpringBoot) |
 | **Frontend** | Vue 3, Vite, TypeScript, Tailwind CSS |
 | **AI / LLM** | LangGraph, LangChain, Dify, Milvus, PyTorch |
 | **Infrastructure** | Docker, Redis, MySQL, RabbitMQ, Elasticsearch |
