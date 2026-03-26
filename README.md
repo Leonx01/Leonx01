@@ -28,17 +28,7 @@
 
 ### 🎓 [ChatMOOC](https://github.com/Leonx01/chatmooc) | AI-Powered Learning Platform
 
-*An intelligent ecosystem that transforms static course materials into interactive, personalized learning paths.*
-
-  * **Core:** Built with **Python 3.12** and **LangGraph** for complex agentic workflows.
-  * **Features:** RAG-based resource parsing, vector search (Milvus), and real-time SSE streaming.
-  * **UI:** Modern glassmorphism interface built with Vue 3 and Vite.
-
 ### 💬 [LeeChat](https://github.com/Leonx01/leetchat-server) | Real-time Communication Suite
 
-*High-concurrency chat application focusing on low-latency data exchange.*
-
-  * **Tech:** SpringBoot, WebRTC, WebSocket, and JWT authentication.
-  * **Functionality:** Support face-to-face messaging and real-time user status synchronization.
 
 -----
