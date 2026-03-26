@@ -2,7 +2,7 @@
 
 ### 🚀 Agent Engineer & AI-Native Developer
 
-- Currently pursuing a **Master’s in Software Engineering at Nanjing University (NJU)**. 
+- Currently pursuing a **Master's in Software Engineering at Nanjing University (NJU)**. 
 - I focus on bridging the gap between cutting-edge AI research and high-performance, production-ready applications.
 
 -----
@@ -30,5 +30,6 @@
 
 ### 💬 [LeeChat](https://github.com/Leonx01/leetchat-server) | Real-time Communication Suite
 
+### ⚖️ [JurisPro](https://github.com/Leonx01/JurisPro-server) | AI-Powered Legal Assistant
 
 -----
