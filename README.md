@@ -2,7 +2,8 @@
 
 ### 🚀 Agent Engineer & AI-Native Developer
 
-- Currently pursuing a **Master's in Software Engineering at Nanjing University (NJU)**. 
+- Currently pursuing a **Master's in Software Engineering at Nanjing University (NJU)**.
+- Internship at Alibaba Taobao&Tmall Group
 - I focus on bridging the gap between cutting-edge AI research and high-performance, production-ready applications.
 
 -----
