@@ -1,36 +1,24 @@
 # 👋 Hi, I'm nileonx (Ni Jianqiao)
 
-### 🚀 Agent Engineer & AI-Native Developer
+### 🚀 About Me
 
-- Currently pursuing a **Master's in Software Engineering at Nanjing University (NJU)**.
-- Internship at Alibaba Taobao&Tmall Group
-- I focus on bridging the gap between cutting-edge AI research and high-performance, production-ready applications.
+- **2021.09 – 2025.06** · B.Eng. in Software Engineering, Xi'an Jiaotong University
+- **2025.09 – Present** · M.Eng. in Software Engineering, Nanjing University
+- **2025.09 – 2026.02** · LLM Research Intern @ TiCloud
+- **2026.04 – Present** · AI Application Developer Intern @ Alibaba Taobao & Tmall Group
 
------
+---
 
 ## 🔍 Research & Interests
 
-  * **Generative AI:** Diffusion Large Language Models (dLLM) and Multi-Agent Systems.
-  * **Performance:** Inference acceleration, parallel decoding, and RAG optimization.
-  * **Architecture:** Building scalable LLM workflows/Agents using LangGraph and Dify.
+- **Agent Post-Training** — RL for agents, rubric design and reward modeling
+- **Agent-oriented Harness** — deep dives into agent runtimes, tooling and evaluation infra
+- **Human–Agent Collaboration** — designing the pattern where people and agents work as one team beyond workflow
 
-## 🛠️ Tech Stack
+## 🌱 Currently
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Backend** | Python (FastAPI/Flask), Java (SpringBoot) |
-| **Frontend** | Vue 3, Vite, TypeScript, Tailwind CSS |
-| **AI / LLM** | LangGraph, LangChain, Dify, Milvus, PyTorch |
-| **Infrastructure** | Docker, Redis, MySQL, RabbitMQ, Elasticsearch |
+Building **[Holagent](#)** — my own agent organization.
 
------
+---
 
-## 📚 Featured Projects
-
-### 🎓 [ChatMOOC](https://github.com/Leonx01/chatmooc) | AI-Powered Learning Platform
-
-### 💬 [LeeChat](https://github.com/Leonx01/leetchat-server) | Real-time Communication Suite
-
-### ⚖️ [JurisPro](https://github.com/Leonx01/JurisPro-server) | AI-Powered Legal Assistant
-
------
+💬 Always happy to chat about agents, RL and everything in between.
