@@ -1,13 +1,13 @@
 # 👋 Hi, I'm nileonx (Ni Jianqiao)
 
-### 🚀 About Me
+## 🏫 Education
 
 - **2021.09 – 2025.06** · B.Eng. in Software Engineering, Xi'an Jiaotong University
 - **2025.09 – Present** · M.Eng. in Software Engineering, Nanjing University
+
+## 🔍 Intership
 - **2025.09 – 2026.02** · LLM Research Intern @ TiCloud
 - **2026.04 – Present** · AI Application Developer Intern @ Alibaba Taobao & Tmall Group
-
----
 
 ## 🔍 Research & Interests
 
