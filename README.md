@@ -12,7 +12,7 @@
 ## 🔍 Research & Interests
 
 - **Agent Post-Training** — RL for agents, rubric design and reward modeling
-- **Agent-oriented Harness** — deep dives into agent runtimes, tooling and evaluation infra
+- **Agent-oriented Infra&Toolkit** — deep dives into agent runtimes, tooling and evaluation infra
 - **Human–Agent Collaboration** — designing the pattern where people and agents work as one team beyond workflow
 
 ## 🌱 Currently
