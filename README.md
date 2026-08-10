@@ -17,8 +17,6 @@
 
 ## 🌱 Currently
 
-Building **[Holagent](https://github.com/HolAgents)** — my own agent organization.
+Building **[Holagent](https://github.com/HolAgents)** 
 
 ---
-
-💬 Always happy to chat about agents, RL and everything in between.
